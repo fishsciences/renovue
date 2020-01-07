@@ -1,0 +1,12 @@
+Package: renovue
+Type: Package
+Title: An R package to format acoustic telemetry data exported from VEMCO's VUE software
+Version: 0.1.0
+Authors@R: 
+    person(given = "Myfanwy", family = "Johnston", role = c("aut", "cre"),
+              email = "myfanwy.johnston@fishsciences.net")
+Maintainer: Myfanwy Johnston <myfanwy.johnston@fishsciences.net>
+Description: Reads standard-formatted .csvs exported from VUE and formats them in preparation for common analyses in R.
+License: GPL (>=3)
+Encoding: UTF-8
+LazyData: true
